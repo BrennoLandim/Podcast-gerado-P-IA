@@ -63,15 +63,5 @@ O aprendizado contínuo (*Lifelong Learning*) como diferencial competitivo nas o
      > “Por Trás da Gestão, estão as mentes que nunca param de aprender.”  
    - Convite para o próximo episódio.
 
----
-
-## 📚 Referências e Fontes Sugeridas
-
-- UNESCO – *Lifelong Learning and the Future of Work*  
-- Harvard Business Review – *Why Continuous Learning Is Key to Business Success*  
-- Peter Senge – *A Quinta Disciplina* (aprendizagem organizacional)  
-- Artigos sobre Gestão do Conhecimento e Educação Corporativa
-
----
 
 ✍️ *Documento elaborado para o episódio 1 do podcast “Por Trás da Gestão”, explorando a tendência do aprendizado contínuo nas organizações.*
